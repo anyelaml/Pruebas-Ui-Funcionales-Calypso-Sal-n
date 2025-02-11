@@ -4,8 +4,13 @@ El proyecto consiste en diseñar una pagina web que permita brindar informacion 
 La web se divide en diversas secciones, dentro de las cuales las que poseen funcionalidades mas resaltantes son Agenda tu cita y Shopping Calypso en la seccion Más.
 
 ![image](https://github.com/user-attachments/assets/a124c496-6d31-4d16-9316-531e5f35b845)
-En la seccion Agenda tu cita, el usuario puede seguir un proceso de 3 etapas para reservar un espacio en el salón.
-y en la Sección Shopping Calypso puede observar los diferenes productos de cuidado capilar que se ofrecen y puede adquirir por medio de la web.
+# Seccion Agenda tu cita
+El usuario puede seguir un proceso de 3 etapas para reservar un espacio en el salón.
+Seleccionando el servicio que desea, el asesor de belleza de preferencia, asi como horario y dia a eleccion. en base a los ofrecidos por la web.
+La página no cuenta con un sistema de pago en la web por el momento, lo esta manejando bajo un sistema de reserva con un monto minimo, enviando el voucher de pago via whastapp.
+# Seccion Shopping Calypso
+En esta seccion puede observar los diferenes productos de cuidado capilar que se ofrecen y puede adquirir por medio de la web.
+Puede añadir diversos productos al carrito de acuerdo a la disponibilidad de los mismos, de la misma forma no hay una pasarela de pagos, y se esta manejando el pedido via whatsapp. Esta seccion aun sigue bajo observacion y pendiente de cambios y observaciones.
 ¿Quieres revisar la documentacion realizada para la pagina web?
 Encuéntrala aqui: [Casos de prueba Calypso](https://docs.google.com/spreadsheets/d/1zElfTom9jo7Vmj9iqgiFzpwfR9eQEYFtswTC7AIykw0/edit?usp=sharing)
 # Resultados encontrados
